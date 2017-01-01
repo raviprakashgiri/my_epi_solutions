@@ -2,8 +2,18 @@
 
 using namespace std;
 
+int intToString()
+{
+
+}
+
+int stringToint()
+{
+	
+}
+
 int main(int argc, char const *argv[])
 {
-	/* code */
+	int number = 28;
 	return 0;
 }
